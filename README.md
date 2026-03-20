@@ -1,2 +1,3 @@
-# hyper-recipe-manager-4why
-Automated issue comment bot repository
+# Hyper Recipe Manager 4Why
+
+Automated issue comment bot repository.
